@@ -1,0 +1,16 @@
+insecticide	souche	dose	tot	morts	replicate	date	color
+Chlor	Slab	0.01	20	20	1	21/6/18	1
+Chlor	Nimp	0.001	40	32	1	21/6/18	4
+Chlor	Nimp	0.1	40	40	1	21/6/18	4
+Chlor	Nimp	1	40	40	1	21/6/18	4
+Chlor	Slab	0.0001	40	0	2	22/6/18	1
+Chlor	Slab	0.0003	40	0	2	22/06/18	1
+Chlor	Slab	0.0005	39	1	2	22/06/18	1
+Chlor	Slab	0.0007	40	1	2	22/06/18	1
+Chlor	Slab	0.001	40	15	2	22/06/18	1
+Chlor	Nimp	0.0001	39	0	2	22/06/18	4
+Chlor	Nimp	0.0003	40	1	2	22/6/18	4
+Chlor	Nimp	0.0005	40	1	2	22/06/18	4
+Chlor	Nimp	0.0007	40	3	2	22/06/18	4
+Chlor	Nimp	0.001	40	22	2	22/06/18	4
+Chlor	Nimp	0.005	40	40	2	22/06/18	4
